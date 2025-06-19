@@ -6,7 +6,7 @@
 ## Steps to run
 1. npm install
 2. npm install -g json-server
-3. edit .env.local.example into .env.local
+3. edit example.env.local into .env.local
 4. edit the JWT_SECRET inside .env.local
 5. open a bash terminal in visual studio
 6. json-server -w db.json -p 5000
