@@ -1,6 +1,6 @@
 # UAS Client Side Programming C14210041
 
-## Aplication needed to run this code:
+## Application needed to run this code:
 1. Visual Studio Code
 
 ## Steps to run
