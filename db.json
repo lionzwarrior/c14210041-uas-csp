@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "username": "admin1",
+      "password": "adminpassword",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "nama_produk": "Laptop A",
+      "harga_satuan": 120000,
+      "quantity": 12
+    },
+    {
+      "id": "2",
+      "nama_produk": "Mouse B",
+      "harga_satuan": 150000,
+      "quantity": 21
+    },
+    {
+      "id": "3",
+      "nama_produk": "Keyboard C",
+      "harga_satuan": 300000,
+      "quantity": 10
+    },
+    {
+      "id": "68b0",
+      "nama_produk": "asdf",
+      "harga_satuan": 123,
+      "quantity": 1123
+    },
+    {
+      "id": "ee14",
+      "nama_produk": "people",
+      "harga_satuan": 123,
+      "quantity": 123
+    }
+  ]
+}
