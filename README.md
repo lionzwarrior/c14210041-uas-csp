@@ -13,3 +13,10 @@
 7. open a powershell terminal in visual studio
 8. npm run dev
 9. open http://localhost:3000 in browser
+
+## UI
+
+![alt text](Screenshot_19-6-2025_192625_localhost.jpeg)
+![alt text](Screenshot_19-6-2025_192640_localhost.jpeg)
+![alt text](Screenshot_19-6-2025_192646_localhost.jpeg)
+![alt text](Screenshot_19-6-2025_192718_localhost.jpeg)
