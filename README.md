@@ -14,8 +14,11 @@
 8. npm run dev
 9. open http://localhost:3000 in browser
 
-## UI
+## Accounts to test with
+1. role=admin => username=admin1, password=adminpassword
+2. role=user => username=user1, password=password123
 
+## UI
 ![alt text](Screenshot_19-6-2025_192625_localhost.jpeg)
 ![alt text](Screenshot_19-6-2025_192640_localhost.jpeg)
 ![alt text](Screenshot_19-6-2025_192646_localhost.jpeg)
