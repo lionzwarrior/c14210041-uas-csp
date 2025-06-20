@@ -167,7 +167,7 @@ export default function DashboardClient({ id }: { id: string }) {
                                                                 prev.map((p) => (p.id === product.id ? { ...p, nama_produk: e.target.value } : p))
                                                             )
                                                         }
-                                                        className="w-full px-3 py-2 border border-gray-300 rounded"
+                                                        className="w-full px-3 py-2 border border-gray-300 rounded" required
                                                     />
                                                     <input
                                                         type="number"
@@ -178,7 +178,7 @@ export default function DashboardClient({ id }: { id: string }) {
                                                                 prev.map((p) => (p.id === product.id ? { ...p, harga_satuan: +e.target.value } : p))
                                                             )
                                                         }
-                                                        className="w-full px-3 py-2 border border-gray-300 rounded"
+                                                        className="w-full px-3 py-2 border border-gray-300 rounded" required
                                                     />
                                                     <input
                                                         type="number"
@@ -189,7 +189,7 @@ export default function DashboardClient({ id }: { id: string }) {
                                                                 prev.map((p) => (p.id === product.id ? { ...p, quantity: +e.target.value } : p))
                                                             )
                                                         }
-                                                        className="w-full px-3 py-2 border border-gray-300 rounded"
+                                                        className="w-full px-3 py-2 border border-gray-300 rounded" required
                                                     />
                                                     <div className="flex space-x-2 mt-2">
                                                         <button
