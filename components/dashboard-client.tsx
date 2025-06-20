@@ -24,6 +24,7 @@ export default function DashboardClient({ id }: { id: string }) {
         await axios.post("http://localhost:5000/products", { nama_produk: String(namaProduk), harga_satuan: Number(hargaSatuan), quantity: Number(quantity) })
 
         fetchProducts();
+        createToggle();
     }
 
     const handleEdit = async (e: React.FormEvent<HTMLFormElement>) => {
