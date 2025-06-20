@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Product, User } from '../app/global';
-import LogoutButton from './logout-button';
 import EditProductButton from './edit-product-button';
 import DeleteProductButton from './delete-product-button';
 import CreateProductButton from './create-product-button';
